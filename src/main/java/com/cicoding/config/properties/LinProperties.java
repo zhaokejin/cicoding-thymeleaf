@@ -8,11 +8,11 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class LinProperties {
-	public static final String PREFIX = "lin";
+	public static final String PREFIX = "cicoding";
 	/**
 	 * 验证码开关
 	 */
-	@Value("${lin.kaptchaswich}")
+	@Value("${cicoding.kaptchaswich}")
 	private boolean kptchaswich = false;
 
 	public boolean isKptchaswich() {

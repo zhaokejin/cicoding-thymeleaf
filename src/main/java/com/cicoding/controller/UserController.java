@@ -93,9 +93,6 @@ public class UserController {
 		String newDeptId = request.getParameter("changedept");
 		String newRoleId = request.getParameter("changerole");
 
-		System.out.println(newId);
-		System.out.println(newDeptId);
-		System.out.println(newRoleId);
 		return service.modifyInfo(newId, newDeptId, newRoleId);
 	}
 	

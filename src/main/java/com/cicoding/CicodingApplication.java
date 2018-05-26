@@ -7,12 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CicodingApplication {
 	
-	
-
 	public static void main(String[] args) {
 		SpringApplication.run(CicodingApplication.class, args);
-		System.out.println("**********************************");
+		System.out.println("***************************************");
 		System.out.println("*      cicoding start-up success      *");
-		System.out.println("**********************************"); 
+		System.out.println("***************************************"); 
+		System.out.println("*******    Cicoding-Thymeleaf    ******"); 
+		
+		
 	}
 }
