@@ -69,5 +69,5 @@ cicoding-thymeleaf基于SpringBoot,目标是实现自动办公,现阶段整合sp
 - Shiro
 - Velocity
 
-**技术交流群**：[951115720](https://jq.qq.com/?_wv=1027&k=50JUFJT)  <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1eddc0d8628b53f65129bb1e44fe342a1aaaa6dc7679739cfbefd7a2e86a15b5"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="SpringBoot SpringCloud Docker " title="SpringBoot SpringCloud Docker "></a>
+**技术交流群**：[加群](https://jq.qq.com/?_wv=1027&k=50JUFJT)  <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1eddc0d8628b53f65129bb1e44fe342a1aaaa6dc7679739cfbefd7a2e86a15b5"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="SpringBoot SpringCloud Docker " title="SpringBoot SpringCloud Docker "></a>
 
