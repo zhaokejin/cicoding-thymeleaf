@@ -10,8 +10,6 @@ cicoding-thymeleaf基于SpringBoot,目标是实现自动办公,现阶段整合sp
 
 欢迎加群Java/Python架构师①群： 415777345
 
-SpringBoot SpringCloud Docker K8s ①群: 317945902
-
 默认管理员账号：admin 密码：111111
 
 **功能介绍**
@@ -75,7 +73,4 @@ SpringBoot SpringCloud Docker K8s ①群: 317945902
 
 有需要极客时间的视频联系我加QQ： 196986604 
 
-有需要极客时间的视频联系我加QQ： 196986604 
-
-**技术交流群**：[加群](https://jq.qq.com/?_wv=1027&k=50JUFJT)  <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1eddc0d8628b53f65129bb1e44fe342a1aaaa6dc7679739cfbefd7a2e86a15b5"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="SpringBoot SpringCloud Docker " title="SpringBoot SpringCloud Docker "></a>
-
+**技术交流群**：欢迎加群Java/Python架构师①群： 415777345
