@@ -71,6 +71,4 @@ cicoding-thymeleaf基于SpringBoot,目标是实现自动办公,现阶段整合sp
 - Shiro
 - Velocity
 
-有需要极客时间的视频联系我加QQ： 196986604 
-
 **技术交流群**：欢迎加群Java/Python架构师①群： 415777345
